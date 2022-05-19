@@ -2,7 +2,7 @@
     1-Expliquez, en quelques lignes, ce que fait cette fonction
     - Cette fonction, prend une list des intervals et retourne le résultat de l'union de ses intervals.
     3- Précisez en combien de temps vous avez implémenté cette fonction.
-    15min
+    10min
 */
 
 function foo(listOfIntervals){
